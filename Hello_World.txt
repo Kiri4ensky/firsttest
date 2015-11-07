@@ -1,0 +1,2 @@
+println("hello_world);
+println("hello_and_peace");
